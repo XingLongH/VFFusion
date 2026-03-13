@@ -27,7 +27,7 @@ python train.py
 
 ## overall network
 
-<p align="center"> <img src="fig.png" width="90%"> </p>
+<p align="center"> <img src="network.png" width="90%"> </p>
 
 
 
